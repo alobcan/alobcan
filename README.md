@@ -20,7 +20,7 @@ Open to learn some mobile development.
 
 🎧 Listen to Most of the music that I've made:
 
-[![Spotify Badge](https://img.shields.io/badge/-Insurgentes-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)](https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)
+[![Spotify Badge](https://img.shields.io/badge/-My_music_path-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)](https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)
 
 ## 🗡 Technologies  
 
