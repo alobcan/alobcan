@@ -2,7 +2,7 @@
 
 Welcome to this github
 I'm Alejandro, Java and Angular developer from Bolivia 🇧🇴, currently living in Cochabamba, I'm a tech enthusiast but also I love making music and photography
-![<img src="https://img.shields.io/badge/Linkedin-alobcano-blue?style=for-the-badge&logo=linkedin?link=http://left&link=[http:](https://www.linkedin.com/in/alobcano/)//right">]:https://www.linkedin.com/in/alobcano/
+![<object data="https://img.shields.io/badge/Linkedin-alobcano-blue?style=for-the-badge&logo=linkedin?link=http://left&link=https://www.linkedin.com/in/alobcano/">]:https://www.linkedin.com/in/alobcano/
 
 ## 🗡 Technologies  
 
