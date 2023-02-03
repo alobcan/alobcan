@@ -1,5 +1,9 @@
 ## Hello there.. 👀
 
+Welcome to this github
+I'm Alejandro, Java and Angular developer from Bolivia, currently living in Cochabamba, I'm a tech enthusiast but also I love making music and photography
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
