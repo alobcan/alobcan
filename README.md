@@ -14,7 +14,7 @@ I'm Alejandro, Java and Angular developer from Bolivia 🇧🇴, currently livin
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alobcano&hide=TeX&layout=compact)
+https://github-stats-alpha.vercel.app/api?username=alobcan
 
 
 
