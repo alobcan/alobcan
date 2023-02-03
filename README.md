@@ -1,6 +1,6 @@
 # Hello there.. 👀
 
-Welcome to this github
+Welcome to my page.
 I'm Alejandro, Java and Angular developer from Cochabamba, Bolivia. 
 I'm a tech enthusiast but also I love making music and photography.
 
