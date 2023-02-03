@@ -18,8 +18,9 @@ Open to learn some mobile development.
 [![Gitlab Badge](https://img.shields.io/badge/-alobcano-darkred?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/alobcano)](https://gitlab.com/alobcano)
 [![Gmail Badge](https://img.shields.io/badge/-alobcano-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alobcano@gmail.com)](mailto:alobcano@gmail.com)
 
-🎧 Listen to My Band!:
-[![Spotify Badge](https://img.shields.io/badge/-Insurgentes-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/artist/4pPWAZ8A5bpOX9jTom7ZZP?si=38pl6KaLS8-t5R9WeKYW0g)](https://open.spotify.com/artist/4pPWAZ8A5bpOX9jTom7ZZP?si=38pl6KaLS8-t5R9WeKYW0g)
+🎧 Listen to Most of the music that I've made:
+
+[![Spotify Badge](https://img.shields.io/badge/-Insurgentes-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)](https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)
 
 ## 🗡 Technologies  
 
