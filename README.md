@@ -34,6 +34,9 @@ Open to learn some mobile development.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alobcan&hide=TeX&layout=compact)
 
 
+Thank you for visiting my GitHub profile! I am always eager to learn and grow as a developer and would love to discuss potential opportunities or collaborate on exciting projects. If you have any questions or would like to connect, feel free to reach out.
+
+
 
 
 <!--
