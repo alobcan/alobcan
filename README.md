@@ -16,7 +16,7 @@ Open to learn some mobile development.
 📫 How to reach me: ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-alobcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alobcano/)](https://www.linkedin.com/in/alobcano/)
-[![Instagram Badge](https://img.shields.io/badge/-alejandro._obando-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alejandro._obando/)](https://instagram.com/alejandro._obando)
+[![Instagram Badge](https://img.shields.io/badge/-alobcan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alobcan/)](https://instagram.com/alobcan)
 [![Gitlab Badge](https://img.shields.io/badge/-alobcano-darkred?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/alobcano)](https://gitlab.com/alobcano)
 [![Gmail Badge](https://img.shields.io/badge/-alobcano-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alobcano@gmail.com)](mailto:alobcano@gmail.com)
 
