@@ -1,57 +1,54 @@
-# Hello there.. 👀
+# Hi, I’m Alejandro 👋
 
-Welcome to my page.
-I'm Alejandro, Java and Angular developer with 5 years of experience in the industry from Cochabamba, Bolivia. 
-I'm a tech enthusiast but also I love making music and photography.
+**Java & Angular developer** based in Cochabamba, Bolivia 🇧🇴  
+I build reliable backend services and thoughtful web experiences, with a focus on **Java, Spring Boot, Angular, and clean APIs**.
 
-Always open to collaborating on projects and innovative/disruptive ideas.
+I’m a technology enthusiast who also enjoys making music and photography. I’m always glad to connect around interesting products, collaborative projects, and ideas with real-world impact.
 
-Currently working as a Backend developer with Spring Boot.
+## What I’m focused on
 
-Also I'm currently learning Next.JS
+- 🔭 Building backend applications with **Spring Boot**
+- 🌱 Exploring **Next.js** and modern frontend patterns
+- 📱 Interested in growing into mobile development
+- 🤝 Open to collaborating on meaningful, innovative projects
 
-Open to learn some mobile development.
+## Tech I work with
 
+**Backend & APIs**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-📫 How to reach me: ...
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-alobcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alobcano/)](https://www.linkedin.com/in/alobcano/)
-[![Instagram Badge](https://img.shields.io/badge/-alobcan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alobcan/)](https://instagram.com/alobcan)
-[![Gitlab Badge](https://img.shields.io/badge/-alobcano-darkred?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/alobcano)](https://gitlab.com/alobcano)
-[![Gmail Badge](https://img.shields.io/badge/-alobcano-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alobcano@gmail.com)](mailto:alobcano@gmail.com)
+**Data, tooling & collaboration**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-🎧 Listen to Most of the music that I've made:
+## Let’s connect
 
-[![Spotify Badge](https://img.shields.io/badge/-My_music_path-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77)](https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77) [![SoundCloud Badge](https://img.shields.io/badge/-Jocan-orange?style=flat-square&logo=soundcloud&logoColor=white&link=https://soundcloud.com/jocan_bo)](https://soundcloud.com/jocan_bo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alobcano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alobcano/)
+[![Instagram](https://img.shields.io/badge/Instagram-alobcan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alobcan)
+[![GitLab](https://img.shields.io/badge/GitLab-alobcano-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/alobcano)
+[![Email](https://img.shields.io/badge/Email-alobcano%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alobcano@gmail.com)
 
-## 🗡 Technologies  
+## Beyond code 🎧
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Music is another creative outlet for me. You can find my work on [Spotify](https://open.spotify.com/playlist/0jJHrXOwgly8afx60TNAo6?si=38384b584ebf4d77) and [SoundCloud](https://soundcloud.com/jocan_bo).
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+---
 
-
-
-![Github Stats](https://github-stats-alpha.vercel.app/api?username=alobcan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alobcan&hide=TeX&layout=compact)
-
-
-Thank you for visiting my GitHub profile! I am always eager to learn and grow as a developer and would love to discuss potential opportunities or collaborate on exciting projects. If you have any questions or would like to connect, feel free to reach out.
-
-
-
-
-<!--
-**alobcan/alobcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Thanks for stopping by — feel free to explore my repositories or get in touch.
+</p>
