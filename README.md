@@ -1,32 +1,32 @@
 # Hi, I’m Alejandro 👋
 
-**Java & Angular developer** based in Cochabamba, Bolivia 🇧🇴  
-I build reliable backend services and thoughtful web experiences, with a focus on **Java, Spring Boot, Angular, and clean APIs**.
+**Backend Engineer** based in Cochabamba, Bolivia 🇧🇴  
+I build reliable services and clean APIs, with a focus on **Java, Spring Boot, AWS, and MySQL**.
 
 I’m a technology enthusiast who also enjoys making music and photography. I’m always glad to connect around interesting products, collaborative projects, and ideas with real-world impact.
 
 ## What I’m focused on
 
-- 🔭 Building backend applications with **Spring Boot**
-- 🌱 Exploring **Next.js** and modern frontend patterns
-- 📱 Interested in growing into mobile development
-- 🤝 Open to collaborating on meaningful, innovative projects
+- 🔭 Working at **Unosquare** with the **Harvard Business Publishing Content System** team
+- 🌱 Developing practical **AI** skills with **Python**
+- 💡 Especially interested in **fintech** and API-driven products
+- 🤝 Open to contributing part-time to open-source projects
 
 ## Tech I work with
 
 **Backend & APIs**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Frontend**  
+**Web development**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Data, tooling & collaboration**  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
